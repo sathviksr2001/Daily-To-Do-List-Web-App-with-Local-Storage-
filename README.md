@@ -76,7 +76,6 @@ https://<your-github-username>.github.io/todo-app/
 
 **Sathvik S.R**  
 - GitHub: [@sathviksr2001](https://github.com/sathviksr2001)
-- Portfolio (if any): _Add your personal site link here_
 
 ---
 
