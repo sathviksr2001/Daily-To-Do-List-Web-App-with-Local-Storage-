@@ -14,7 +14,7 @@ A clean, minimal, and responsive daily to-do list app that stores tasks locally 
 
 ## 🔗 Live Demo
 
-[Click here to view the app live](https://sathviksr2001.github.io/todo-app/)  
+[Click here to view the app live](https://sathviksr2001.github.io/Daily-To-Do-List-Web-App-with-Local-Storage-/)  
 *(Make sure GitHub Pages is enabled for the repository)*
 
 ---
