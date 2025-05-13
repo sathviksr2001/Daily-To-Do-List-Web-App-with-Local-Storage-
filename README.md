@@ -19,14 +19,6 @@ A clean, minimal, and responsive daily to-do list app that stores tasks locally 
 
 ---
 
-## 📷 Preview Screenshot
-
-![Todo App Preview](https://user-images.githubusercontent.com/000000/placeholder-image.png)
-
-> _Replace this image URL with an actual screenshot after uploading the app._
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
